@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CrossAndZeroTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-06-20T19:34:26" hostname="USER" time="0.292">
+  <properties/>
+  <testcase name="[1] X" classname="CrossAndZeroTest" time="0.151"/>
+  <testcase name="[2] O" classname="CrossAndZeroTest" time="0.012"/>
+  <testcase name="[1] X" classname="CrossAndZeroTest" time="0.005"/>
+  <testcase name="[2] O" classname="CrossAndZeroTest" time="0.009"/>
+  <testcase name="testInWin_trueForZeroColumn()" classname="CrossAndZeroTest" time="0.017"/>
+  <testcase name="testInWin_trueForCrossColumn()" classname="CrossAndZeroTest" time="0.006"/>
+  <testcase name="[1] X" classname="CrossAndZeroTest" time="0.005"/>
+  <testcase name="[2] O" classname="CrossAndZeroTest" time="0.004"/>
+  <testcase name="[1] X" classname="CrossAndZeroTest" time="0.008"/>
+  <testcase name="[2] O" classname="CrossAndZeroTest" time="0.002"/>
+  <system-out><![CDATA[Start testing
+Start of the current test
+Current test completed in 106337303
+Start of the current test
+Current test completed in 7624739
+Start of the current test
+Current test completed in 954534
+Start of the current test
+Current test completed in 872854
+Start of the current test
+Current test completed in 11411163
+Start of the current test
+Current test completed in 1120777
+Start of the current test
+Current test completed in 2051927
+Start of the current test
+Current test completed in 827049
+Start of the current test
+Current test completed in 3364892
+Start of the current test
+Current test completed in 681627
+Test suite completed in 392502362
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
